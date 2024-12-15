@@ -6,10 +6,9 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 ## 🚀 About Me  
 
-- 🔭 Currently working on **Auto Music Detection and Timestamping(#)**  
-- 🌱 Learning: **AWS**, **Transformer Models**, **Open Source Contribution**  
-- 📫 Reach me at: **doshiharsh2004@gmail.com(doshiharsh2004@gmail.com)**  
-- 🌎 Fun fact: I believe in "Code. Debug. Repeat." 🖥️  
+- Currently in 3rd year of B.E Engineering in Information Technology.
+- I like to explore different domains of technology and learn new things.
+- I have projects around various domains from  apps to web development to ML and blockchain.
 
 ---
 
@@ -39,6 +38,32 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 ---
 
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-D-2004&show_icons=true&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-D-2004&layout=compact&theme=radical&hide_border=true) 
+
+
+<div align="center">
+
+![Streak Stats](https://streak-stats.demolab.com?user=Harsh-D-2004&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+
+<!-- </div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-D-2004&theme=radical&margin-w=10&margin-h=10)
+
+</div>
+
+</div>  
+
+---
+
 ### Stack 2  
 <div align="center">
 
@@ -60,30 +85,7 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 </div>
 
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-D-2004&show_icons=true&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-D-2004&layout=compact&theme=radical&hide_border=true) 
-
-
-<div align="center">
-
-![Streak Stats](https://streak-stats.demolab.com?user=Harsh-D-2004&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-D-2004&theme=radical&margin-w=10&margin-h=10)
-
-</div>
-
-</div>  
-
----
+--- -->
 
 ## 🌟 Let's Connect  
 
@@ -92,16 +94,6 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://your-portfolio.com)
-
-</div>  
-
----
-
-## 🌱 Visitor Count  
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/Harsh-D-2004/count.svg)  
 
 </div>  
 
