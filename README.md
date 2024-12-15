@@ -73,16 +73,15 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 </div> -->
 
---- -->
-
 ## 🌟 Let's Connect  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harsh-doshi-86a457294/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/realityfailure)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:doshiharsh2004@gmail.com)  
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://your-portfolio.com) -->
 
-</div>  
+</div> 
 
 ---
