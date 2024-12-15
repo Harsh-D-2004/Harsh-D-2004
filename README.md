@@ -26,6 +26,42 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 ---
 
+## 🌌 Featured Repositories  
+
+### Stack 1  
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical&hide_border=true)](https://github.com/your-username/repo-1)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical&hide_border=true)](https://github.com/your-username/repo-2)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=radical&hide_border=true)](https://github.com/your-username/repo-3)
+
+</div>  
+
+---
+
+### Stack 2  
+<div align="center">
+
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-4&theme=radical&hide_border=true)](https://github.com/your-username/repo-4)  
+[![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-5&theme=radical&hide_border=true)](https://github.com/your-username/repo-5)  
+[![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-6&theme=radical&hide_border=true)](https://github.com/your-username/repo-6)
+
+</div>  
+
+---
+
+### Stack 3  
+<div align="center">
+
+[![Repo 7](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-7&theme=radical&hide_border=true)](https://github.com/your-username/repo-7)  
+[![Repo 8](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-8&theme=radical&hide_border=true)](https://github.com/your-username/repo-8)  
+[![Repo 9](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-9&theme=radical&hide_border=true)](https://github.com/your-username/repo-9)
+
+</div>
+
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -33,19 +69,6 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-D-2004&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-D-2004&layout=compact&theme=radical&hide_border=true)  
 ![Streak Stats](https://streak-stats.demolab.com?user=Harsh-D-2004&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>  
-
----
-
-## 🌌 Featured Repositories  
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-1&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-1)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-2&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-2)  
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-3&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-3)  
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-4&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-4)
 
 </div>  
 
