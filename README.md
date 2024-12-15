@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi there! 👋 I'm **[Harsh Doshi]**, a passionate software developer, machine learning enthusiast, and open-source contributor. I love solving problems with innovative tech solutions and collaborating on impactful projects.
+Hi there! 👋 I'm **Harsh Doshi**, a passionate software developer, machine learning enthusiast, and open-source contributor. I love solving problems with innovative tech solutions and collaborating on impactful projects.
 ---
 
 ## 🛠️ Tech Toolbox
