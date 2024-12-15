@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm [Your Name]! 🌟  
+# 🌟 Hi, I'm Harsh Doshi! 🌟  
 
 Welcome to my little corner of GitHub! 🚀 I’m a passionate developer exploring the intersections of **Web Development**, **Machine Learning**, and **Software Engineering**.  
 
@@ -17,9 +17,9 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)  
-![Streak Stats](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-D-2004&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-D-2004&layout=compact&theme=radical&hide_border=true)  
+![Streak Stats](https://streak-stats.demolab.com?user=Harsh-D-2004&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>  
 
@@ -29,10 +29,10 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical&hide_border=true)](https://github.com/your-username/repo-1)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical&hide_border=true)](https://github.com/your-username/repo-2)  
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=radical&hide_border=true)](https://github.com/your-username/repo-3)  
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-4&theme=radical&hide_border=true)](https://github.com/your-username/repo-4)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-1&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-1)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-2&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-2)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-3&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-3)  
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-4&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-4)
 
 </div>  
 
@@ -68,8 +68,8 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 <div align="center">
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.profile)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=10&margin-h=10)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Harsh-D-2004.profile)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-D-2004&theme=radical&margin-w=10&margin-h=10)
 
 </div>  
 
