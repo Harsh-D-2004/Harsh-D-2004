@@ -71,7 +71,7 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Harsh-D-2004&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-D-2004&theme=radical&margin-w=10&margin-h=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-D-2004&theme=radical&margin-w=10&margin-h=10)
 
 </div>  
 
@@ -94,7 +94,6 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 <div align="center">
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Harsh-D-2004.profile)  
-!
 
 </div>  
 
