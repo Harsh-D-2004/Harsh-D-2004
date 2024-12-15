@@ -1,7 +1,8 @@
 # 🌟 Hi, I'm Harsh Doshi! 🌟  
 
-Welcome to my little corner of GitHub! 🚀 I’m a passionate developer exploring the intersections of **Web Development**, **Machine Learning**, and **Software Engineering**.  
-
+Welcome to my little corner of GitHub!  
+Contains whole journey of me as a developer.
+From a basic hellow rold program to crazier projects 
 ---
 
 ## 🚀 About Me  
