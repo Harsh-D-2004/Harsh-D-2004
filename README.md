@@ -1,8 +1,8 @@
 # 🌟 Hi, I'm Harsh Doshi! 🌟  
 
-Welcome to my little corner of GitHub!  
-Contains whole journey of me as a developer.
-From a basic hellow rold program to crazier projects 
+-Welcome to my little corner of GitHub!  
+-Contains whole journey of me as a developer.
+-From a basic hellow rold program to crazier projects
 ---
 
 ## 🚀 About Me  
