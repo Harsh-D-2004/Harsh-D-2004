@@ -25,19 +25,6 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 ---
 
-## 🌌 Featured Repositories  
-
-### Stack 1  
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical&hide_border=true)](https://github.com/your-username/repo-1)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical&hide_border=true)](https://github.com/your-username/repo-2)  
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=radical&hide_border=true)](https://github.com/your-username/repo-3)
-
-</div>  
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -52,13 +39,15 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 ---
 
 
-<!-- </div>
 
-<div align="center">
+<!-- ## 🌌 Featured Repositories  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-D-2004&theme=radical&margin-w=10&margin-h=10)
+### Stack 1  
+<div align="center"> -->
 
-</div>
+<!-- [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical&hide_border=true)](https://github.com/your-username/repo-1)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical&hide_border=true)](https://github.com/your-username/repo-2)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=radical&hide_border=true)](https://github.com/your-username/repo-3)
 
 </div>  
 
@@ -82,8 +71,7 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 [![Repo 8](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-8&theme=radical&hide_border=true)](https://github.com/your-username/repo-8)  
 [![Repo 9](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-9&theme=radical&hide_border=true)](https://github.com/your-username/repo-9)
 
-</div>
-
+</div> -->
 
 --- -->
 
