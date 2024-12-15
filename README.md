@@ -13,6 +13,27 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 
 ---
 
+## 💻 Technologies & Tools  
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
+![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -33,20 +54,6 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-2&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-2)  
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-3&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-3)  
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-D-2004&repo=repo-4&theme=radical&hide_border=true)](https://github.com/Harsh-D-2004/repo-4)
-
-</div>  
-
----
-
-## 💻 Technologies & Tools  
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 </div>  
 
