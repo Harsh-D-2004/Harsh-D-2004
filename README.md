@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a passionate [your role, e.g., "Software Devel
 - Tools: `Git`, `Docker`, `Next.js`
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-D-2004&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-D-2004&layout=compact&theme=radical)
 
 ## 🌟 Featured Repositories
-- [Project 1](https://github.com/your-username/project1) - Brief description.
-- [Project 2](https://github.com/your-username/project2) - Brief description.
+- [Project 1](https://github.com/Harsh-D-2004/project1) - Brief description.
+- [Project 2](https://github.com/Harsh-D-2004/project2) - Brief description.
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
