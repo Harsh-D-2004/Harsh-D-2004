@@ -102,7 +102,6 @@ Welcome to my little corner of GitHub! 🚀 I’m a passionate developer explori
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/Harsh-D-2004/count.svg)  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Harsh-D-2004.profile)
 
 </div>  
 
