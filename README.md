@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-- Currently in 3rd year of B.E Engineering in Information Technology.
+- Currently in 4th year of B.E Engineering in Information Technology.
 - I like to explore different domains of technology and learn new things.
 - I have projects around various domains from  apps to web development to ML and blockchain.
 
